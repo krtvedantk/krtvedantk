@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack android developer from India</h3>
 <img align="right" alt="coding" width="400vh" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=790b76116ave6ofbgc4jkd9r78d84o9j3ijwvyfb8yox84uh&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krtveantk&label=Profile%20views&color=0e75b6&style=flat" alt="krtveantk" /> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [krtvedant.netlify.app](krtvedant.netlify.app)
